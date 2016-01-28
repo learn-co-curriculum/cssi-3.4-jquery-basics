@@ -65,4 +65,4 @@ Here are some methods you can use to edit your CSS with JQuery:
 + toggleClass() - Toggles between adding/removing classes from the selected elements
 + css() - Sets or returns the style attribute
 
-<a href='https://learn.co/lessons/cssi-3.4-jquery-basics' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-3.4-jquery-basics' title='jQuery Basics'>jQuery Basics</a> on Learn.co and start learning to code for free.</p>
